@@ -4,6 +4,8 @@
 
 A free browser game by [Coded Female](https://codedfemale.com). Investigate five convincing AI summaries, compare them with fictional source records and distinguish supported claims, contradictions and claims the evidence does not establish.
 
+The interface uses a charcoal investigation console, gold accents, a case queue and labelled source records. On wide screens the evidence archive stays beside the claims as you scroll. The original Coded Female fonts are retained, with system monospace for technical labels.
+
 Cases cover survey denominators, percentages versus percentage points, invented quotations, outdated approvals and correlation versus causation. The final case contains no flawed claims. Classify three claims and select a careful summary in each case. First answers count towards 20 judgements, with optional clues, detailed explanations, replay and downloadable notes.
 
 ## Run locally
