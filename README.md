@@ -2,13 +2,13 @@
 
 **[Play the game](https://codedfemale-dev.github.io/hallucination-detective/)**
 
-A free browser game by [Coded Female](https://codedfemale.com). Investigate five convincing AI summaries, compare them with fictional source records and distinguish supported claims, contradictions and claims the evidence does not establish.
+A free browser game by [Coded Female](https://codedfemale.com). Follow a fictional Agile team after releasing Relay, a product for clearer project handovers. Audit the AI assistant’s answers against source records and distinguish supported claims, contradictions and claims the evidence does not establish.
 
-The interface uses a charcoal investigation console, gold accents, a case queue and labelled source records. On wide screens the evidence archive stays beside the claims as you scroll. The original Coded Female fonts are retained, with system monospace for technical labels.
+Maya (Product Owner), Noor (analyst) and Sam (delivery lead) ask B.I.T. (Brilliant In Theory) five questions about release feedback, onboarding, user interviews, a follow-up release and retrospective learning. The cases cover survey denominators, percentages versus percentage points, invented quotations, outdated approvals and correlation versus causation. The last answer contains no flawed claims.
 
-Meet B.I.T. (Brilliant In Theory), a confident moonbase bot whose reports need a human check. Cases include a droid satisfaction survey, a portal experiment, invented NPC dialogue, a cached launch approval and the haunted server hypothesis. Feedback celebrates each solved incident, and the final score awards a playful title.
+Classify three claims and select a careful summary in each case. First answers count towards 20 judgements, with optional clues, detailed explanations, playful team-log reactions, score titles, replay and downloadable notes.
 
-Cases cover survey denominators, percentages versus percentage points, invented quotations, outdated approvals and correlation versus causation. The final case contains no flawed claims. Classify three claims and select a careful summary in each case. First answers count towards 20 judgements, with optional clues, detailed explanations, replay and downloadable notes.
+The interface preserves Coded Female’s fonts and gold accents, with a charcoal inspection console and labelled source records. B.I.T. gently bobs and blinks; evidence cards enter as each case opens; verdict stamps animate briefly after submission. Reduced-motion settings disable these animations and smooth feedback scrolling. A Pause animations control also lets players stop movement for the current page session.
 
 ## Run locally
 
@@ -20,6 +20,6 @@ Run `node tests.cjs`. It checks all 405 verdict and summary combinations, source
 
 ## Privacy and learning limits
 
-All organisations, people and evidence records are fictional. This game uses scripted examples, not a live AI model or a fact-checking service. Answers are held in memory for the current page only. No analytics, external fonts, API keys or account is required. GitHub Pages hosting has its own platform policies.
+Relay, its team, users and evidence records are fictional. This game uses scripted examples, not a live AI model or a fact-checking service. Answers are held in memory for the current page only. No analytics, external fonts, API keys or account is required. GitHub Pages hosting has its own platform policies.
 
 Open Sans and Playfair Display are bundled with their font licence files in `assets/`.
