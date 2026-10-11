@@ -6,6 +6,8 @@ A free browser game by [Coded Female](https://codedfemale.com). Investigate five
 
 The interface uses a charcoal investigation console, gold accents, a case queue and labelled source records. On wide screens the evidence archive stays beside the claims as you scroll. The original Coded Female fonts are retained, with system monospace for technical labels.
 
+Meet B.I.T. (Brilliant In Theory), a confident moonbase bot whose reports need a human check. Cases include a droid satisfaction survey, a portal experiment, invented NPC dialogue, a cached launch approval and the haunted server hypothesis. Feedback celebrates each solved incident, and the final score awards a playful title.
+
 Cases cover survey denominators, percentages versus percentage points, invented quotations, outdated approvals and correlation versus causation. The final case contains no flawed claims. Classify three claims and select a careful summary in each case. First answers count towards 20 judgements, with optional clues, detailed explanations, replay and downloadable notes.
 
 ## Run locally
